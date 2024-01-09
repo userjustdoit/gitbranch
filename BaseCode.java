@@ -7,6 +7,7 @@ public class BaseCode {
         //base主干代码更新了
 
         //rebase方式的使用
+        //mobile也更行了
     }
 
 }
