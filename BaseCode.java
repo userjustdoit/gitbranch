@@ -8,6 +8,7 @@ public class BaseCode {
 
         //rebase方式的使用
         //mobile也更行了
+        //Mobile我也写了一行代码
     }
 
 }
