@@ -5,6 +5,7 @@ public class BaseCode {
         //code update main
         //code edit in mobile
         //base主干代码更新了
+        //mobile也更行了
     }
 
 }
