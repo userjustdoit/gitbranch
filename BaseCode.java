@@ -7,5 +7,4 @@ public class BaseCode {
         //base主干代码更新了
         //mobile也更行了
     }
-
 }
